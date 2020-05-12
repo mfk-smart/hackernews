@@ -1,6 +1,6 @@
-# natilon
+# Hackernews
 
-> My swell Nuxt.js project
+> Hackernews with Nuxt and Bulma
 
 ## Build Setup
 
@@ -20,3 +20,4 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+=======
